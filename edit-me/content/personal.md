@@ -1,10 +1,10 @@
 ---
 givenName: Mohamed
 familyName: Bouteraa
-title: JS / .Net Developer
+title: Business Analyst / IT Project Lead
 location: Paris, France
-phone: +33 6 61 67 95 28
 email: contact@mad-consulting.fr
+drivingLicense: B with vehicle
 birthdate: 25/05/1995
 ---
 
