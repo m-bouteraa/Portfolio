@@ -3,8 +3,8 @@ givenName: Mohamed
 familyName: Bouteraa
 title: Business Analyst / IT Project Lead
 location: Paris, France
+phone: "N/A"
 email: contact@mad-consulting.fr
-drivingLicense: B with vehicle
 birthdate: 25/05/1995
 ---
 
