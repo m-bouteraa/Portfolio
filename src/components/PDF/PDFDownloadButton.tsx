@@ -9,7 +9,7 @@ interface PDFDownloadButtonProps {
 const PDFDownloadButton: React.FC<PDFDownloadButtonProps> = ({ secret }) => {
   return (
     <ButtonLink
-      href='/CV-RJ.pdf'
+      href='/CV-Mohamed-Bouteraa.pdf'
       // href={secret ? `/api/pdf?secret=${secret}` : '/api/pdf'}
       size="lg"
       target="_blank"
